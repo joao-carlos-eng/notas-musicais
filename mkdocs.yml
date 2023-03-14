@@ -1,0 +1,18 @@
+site_name: Notas Musicais
+repo_url: https://github.com/joao-carlos-eng/notas-musicais.git
+repo_name: joao-carlos-eng/notas-musicais
+edit_uri: edit/master/docs/
+site_description: Notas Musicais
+site_author: João Carlos
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
