@@ -1,4 +1,4 @@
-def escalas():
+def escala():
     """
     >>> escalas('C', 'maior')
     """
