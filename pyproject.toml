@@ -39,4 +39,4 @@ line_length = 79
 lint = "blue --check --diff . && isort --check --diff ."  # check code style
 docs = "mkdocs serve"  # run docs locally
 test = "pytest -s -x --cov=notas_musicais -vv"  # run tests
-post_test = "covererage html"  # generate coverage report
+post_test = "coverage html"  # generate coverage report
